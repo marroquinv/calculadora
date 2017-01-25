@@ -1,0 +1,27 @@
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dany\Desktop\semestres\semestre 7\DSI\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\DSI.calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\DSI.calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
